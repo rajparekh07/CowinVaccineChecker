@@ -1,5 +1,5 @@
 {
-  "name": "Cowin Vaccine Checker",
+  "name": "CowinVaccineChecker",
   "version": "1.0.0",
   "description": "Cowin Vaccine Checker: a node script to call api",
   "main": "index.js",
