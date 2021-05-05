@@ -1,7 +1,7 @@
 {
-  "name": "manifestdownloader",
+  "name": "Cowin Vaccine Checker",
   "version": "1.0.0",
-  "description": "A tool to test manifest",
+  "description": "Cowin Vaccine Checker: a node script to call api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
